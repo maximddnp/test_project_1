@@ -10,7 +10,7 @@
 
     <properties>
         <selenium.version>3.141.59</selenium.version>
-        <webdrivermanager.version>3.6.1</webdrivermanager.version>
+        <webdrivermanager.version>6.1.0</webdrivermanager.version>
         <junit.jupiter.version>5.6.1</junit.jupiter.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <log4j.version>2.11.1</log4j.version>
